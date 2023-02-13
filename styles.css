@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(228,155,27);
+
+}
+
+h1{
+    text-align: center;
+    color: rgb(225, 225, 225);
+}
+
+.avatar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    margin-top: 15%;
+    height: auto;
+    max-width: 100px;
+
+    border-radius: 20%;
+
+}
+
+.links {
+    display: block;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    text-align: center;
+
+    border: 1px solid rgb(91, 1, 91);
+    border-width: 3.5px;
+    border-radius: 40px;
+    font-size: 25px;
+
+
+}
+
+a{
+    text-decoration: none;
+    color: whitesmoke;
+    background-color: blueviolet;
+    transition: color .5s;
+}
+
+a:hover {
+    color: whitesmoke;
+    background-color:  rgb(228,155,27);
+
+
+}
+
+.kobe {
+    position: fixed;
+
+    
+}

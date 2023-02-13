@@ -1,0 +1,24 @@
+
+/*2. Mobile Styles: 0 to 480 pixels
+
+/* [insert mobile style rules here] */
+    @media only screen and (max-width: 480px){
+        /*[insert more mobile style rules here]*/
+    }
+
+/*
+3.   Tablet Styles: 481pixels and greater
+*/
+
+@media only screen and (min-width: 481px) {
+    /*[style rules]*/
+}
+
+/* 4.   Desktop Styles: 769px and greater 
+*/
+
+@media only screen and (min-width: 769px) {
+
+    /*[style rules]*/
+
+}
